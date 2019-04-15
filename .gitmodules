@@ -1,0 +1,3 @@
+[submodule "themes/momentum"]
+	path = themes/momentum
+	url = git@github.com:icymind/momentum.git
