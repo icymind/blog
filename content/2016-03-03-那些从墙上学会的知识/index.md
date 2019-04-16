@@ -1,7 +1,7 @@
 +++
 title = "那些从墙上学会的知识"
-tags = ["tech"]
 slug = "learn-from-gfw"
+tags = ["Tech"]
 +++
 
 >不好好学习计算机网络，就会被国家教育。
@@ -266,10 +266,10 @@ min-cache-ttl是在2.73版本加入的选项，去作者官网可以浏览代码
 
 
 
-[topological]: topological.jpg
+[topological]: /images/2016/topological.jpg
 [vbird-netfilter]: http://linux.vbird.org/linux_server/0250simple_firewall.php#netfilter
 [iptables-blog]: https://blog.coocla.org/207.html
-[iptables]: iptables_line.jpg
+[iptables]:  /images/2016/iptables_line.jpg
 [tcpdump-nat]: http://serverfault.com/questions/502003/tcpdump-not-picking-up-traffic-redirected-by-iptables
 [openwrt-nc]: https://dev.openwrt.org/ticket/13297
 [iptables-domain]: http://serverfault.com/questions/334473/forwarding-packets-from-specific-domain-tld-to-a-certain-machine-in-network-us
@@ -286,11 +286,11 @@ min-cache-ttl是在2.73版本加入的选项，去作者官网可以浏览代码
 [dns-poison]: http://www.williamlong.info/archives/3356.html
 [dns-ttl]: http://www.xiaoxiaozi.com/2013/04/23/2409/
 [dnsmasq2.73]: http://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2015q2/009644.html
-[dig300]: dig300.png
-[dig3600]: dig3600.png
-[dns-fail]: dns-fail.png
+[dig300]:  /images/2016/dig300.png
+[dig3600]: /images/2016/dig3600.png
+[dns-fail]: /images/2016/dns-fail.png
 [dnsmasq2.73gitlog]: http://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=log;h=refs/tags/v2.73
 [dnsmasq2.73mincachettl]: http://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=commitdiff;h=28de38768e2c7d763b9aa5b7a4d251d5e56bab0b
 [dnsmasq2.75src]: http://www.thekelleys.org.uk/dnsmasq/dnsmasq-2.75.tar.gz
 [github-dnsmasq]: https://github.com/A-Unique-Pig/openwrt-dnsmasq
-[dig1day]: dig1day.png
+[dig1day]: /images/2016/dig1day.png

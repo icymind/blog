@@ -1,8 +1,7 @@
----
-title: "sizeof: 从 Unicode 说开去"
-date: 2018-12-15 22:55
-tags: javascript encoding unicode
----
++++
+title = "sizeof"
+tags = ["javascript encoding unicode"]
++++
 
 最近实现一个 cache 系统, 要求对 cache 的大小做限制. 但是 JavaScript 没有 sizeof 函数, 咋整? 只能自己实现一个了, js 里:
 
