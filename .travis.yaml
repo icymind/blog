@@ -1,0 +1,18 @@
+language: minimal
+addons:
+  ssh_known_hosts: deploy.icymind.com:11235
+before_install:
+  - openssl aes-256-cbc -K $encrypted_b7eee5ba7c6b_key -iv $encrypted_b7eee5ba7c6b_iv
+    -in travis_rsa.enc -out travis_rsa -d
+install:
+  - pip install mkdocs
+script:
+  - curl -sL https://github.com/getzola/zola/releases/download/v0.6.0/zola-v0.6.0-x86_64-unknown-linux-gnu.tar.gz | tar zxv && ./zola build
+before_deploy:
+  - eval "$(ssh-agent -s)"
+  - chmod 600 travis_rsa
+  - ssh-add travis_rsa
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: rsync -raz -e 'ssh -p 11235 -o StrictHostKeyChecking=no -o CheckHostIP=no' $TRAVIS_BUILD_DIR/public/* simon@deploy.icymind.com:/srv/www/icymind.com/blog
