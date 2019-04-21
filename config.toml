@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://icymind.com"
+base_url = "https://icymind.com/blog"
 
 title = "icymind"
 description = "now or never"
@@ -19,5 +19,6 @@ theme = "momentum"
 [extra]
 # Put all your custom variables here
 momentum_links = [
-  {name = "Github", url = "baidu.com"},
+  {name = "Github", url = "https://github.com/icymind"},
+  {name = "Twitter", url = "https://twitter.com/icymindx"},
 ]
