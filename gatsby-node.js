@@ -1,3 +1,4 @@
+const path = require('path')
 /**
  * Implement Gatsby's Node APIs in this file.
  *
@@ -5,3 +6,13 @@
  */
 
 // You can delete this file if you're not using it
+
+exports.onCreateWebpackConfig = ({ stage, actions }) => {
+  actions.setWebpackConfig({
+    resolve: {
+      alias: {
+        '@': path.resolve(__dirname, 'src'),
+      },
+    },
+  })
+}
