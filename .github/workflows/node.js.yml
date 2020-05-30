@@ -5,7 +5,7 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, gatsby ]
   pull_request:
     branches: [ master ]
 
@@ -30,5 +30,4 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - echo 'deploy'
-    
+    - run: echo 'deploy'
