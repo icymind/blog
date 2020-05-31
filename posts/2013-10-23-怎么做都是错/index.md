@@ -1,8 +1,8 @@
-+++
-title = "怎么做都是错"
-slug = "identify-what-you-need"
-tags = ["Life"]
-+++
+---
+title: "怎么做都是错"
+slug: "identify-what-you-need"
+tags: ["Life"]
+---
 
 
 一个人如果不知道自己需要什么，那么不管他做什么，都是错的。
