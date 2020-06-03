@@ -55,7 +55,7 @@ jobs:
         uses: burnett01/rsync-deployments@4.0
         with:
           switches: -avprtuzC
-          path: dist/
+          path: public/
           remote_path: /home/simon/vhosts/overcache.com/
           remote_host: overcache.com
           remote_port: 11235
