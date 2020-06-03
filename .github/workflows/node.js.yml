@@ -45,6 +45,7 @@ jobs:
 
   deploy:
     runs-on: self-hosted
+    needs: build
     steps:
       - name: Download dist
         uses: actions/download-artifact@v1
