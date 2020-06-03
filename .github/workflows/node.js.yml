@@ -36,22 +36,6 @@ jobs:
       - run: npm install
       - run: npm run build --if-present
 
-      - name: upload dist
-        uses: actions/upload-artifact@v1
-        with:
-          name: dist
-          path: public
-
-
-  deploy:
-    runs-on: self-hosted
-    needs: build
-    steps:
-      - name: Download dist
-        uses: actions/download-artifact@v1
-        with:
-          name: dist
-
       - name: rsync deployments
         uses: burnett01/rsync-deployments@4.0
         with:
