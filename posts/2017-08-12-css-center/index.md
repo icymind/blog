@@ -1,7 +1,9 @@
-+++
-title = "<del>茴字</del>元素居中有多少种写法"
-tags = []
-+++
+---
+title: "<del>茴字</del>元素居中有多少种写法"
+tags: []
+---
+
+
 
 {% asset_img kongyiji.jpg %}
 
@@ -84,3 +86,4 @@ tags = []
 参考链接:
 
 [Absolute Centering in CSS](https://codepen.io/shshaw/details/gEiDt)
+

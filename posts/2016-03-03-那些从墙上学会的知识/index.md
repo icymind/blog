@@ -1,8 +1,10 @@
-+++
-title = "那些从墙上学会的知识"
-slug = "learn-from-gfw"
-tags = ["Tech"]
-+++
+---
+title: "那些从墙上学会的知识"
+slug: "learn-from-gfw"
+tags: ["Tech"]
+---
+
+
 
 >不好好学习计算机网络，就会被国家教育。
 
@@ -294,3 +296,4 @@ min-cache-ttl是在2.73版本加入的选项，去作者官网可以浏览代码
 [dnsmasq2.75src]: http://www.thekelleys.org.uk/dnsmasq/dnsmasq-2.75.tar.gz
 [github-dnsmasq]: https://github.com/A-Unique-Pig/openwrt-dnsmasq
 [dig1day]: /images/2016/dig1day.png
+

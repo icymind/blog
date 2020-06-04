@@ -1,7 +1,9 @@
-+++
-title = "各种青年是怎么创建对象的"
-tags = ["js"]
-+++
+---
+title: "各种青年是怎么创建对象的"
+tags: ["js"]
+---
+
+
 
 {% asset_img create-object-in-js.jpg %}
 
@@ -373,3 +375,4 @@ var sub1 = new SubType()
 ```
 
 开发人员普遍认为寄生组合式继承是引用类型最理想的继承范式.
+

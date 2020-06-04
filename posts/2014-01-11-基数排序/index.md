@@ -1,8 +1,10 @@
-+++
-title = "基数排序"
-slug = "radix-sorting"
-tags = ["Algorithm"]
-+++
+---
+title: "基数排序"
+slug: "radix-sorting"
+tags: ["Algorithm"]
+---
+
+
 
 我的上篇博客写了计数排序和桶排序,他们的效率很高,但是对输入数据的要求太过于苛刻.简单回顾下计数排序:  
 
@@ -390,3 +392,4 @@ PS:C++的sort函数做了很多优化,已经不是纯粹的快排了,而是融�
 
 [Radix Sort Tutorial](http://cubic.org/docs/radix.htm)  
 [Radix Sort Revisited](http://codercorner.com/RadixSortRevisited.htm)
+

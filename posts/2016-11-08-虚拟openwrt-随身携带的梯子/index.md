@@ -1,8 +1,10 @@
-+++
-title = "虚拟 openwrt"
-slug = "virtual-openwrt"
-tags = ["Tech"]
-+++
+---
+title: "虚拟 openwrt"
+slug: "virtual-openwrt"
+tags: ["Tech"]
+---
+
+
 
 ### update-2017-07-13: 用 electron 封装了虚拟机: [vrouter](https://github.com/icymind/VRouter)
 
@@ -414,3 +416,4 @@ kcptun 是我的答案之一.
 
     - 如果宿主没有密钥对的话 , 用 `ssh-keygen` 生成 , 公钥在宿主的 ~/.ssh/id_rsa.pub
     - 将宿主公钥的内容复制到 openwrt 的 /etc/dropbear/authorized_keys 文件内即可
+

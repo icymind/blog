@@ -1,8 +1,10 @@
-+++
-title = "字符排列组合"
-slug = "permutation-and-combination-problem"
-tags = ["Algorithm"]
-+++
+---
+title: "字符排列组合"
+slug: "permutation-and-combination-problem"
+tags: ["Algorithm"]
+---
+
+
 
 对于字符排列组合的认知一直很模糊,曾经花了比较多的时间去试图搞清楚,过了一段时间,却还是忘得厉害,不懂从哪里下手解决.比如之前花很多时间看的问题:  
 输入一个字符串,输出该字符串的全排列.  
@@ -255,3 +257,4 @@ PS:
 这种全排列求解八皇后问题的方法不是最快的,因为生成了很多不合格的方案,最后又进行筛选,时间效率上有一定的损失.更多的解法可以去看[N皇后问题的两个最高效的算法](http://blog.csdn.net/hackbuteer1/article/details/6657109)
 
 - 输入两个整数n和m，从数列1,2,3...n中随意取几个数，使其和等于m，要求列出所有的组合。
+

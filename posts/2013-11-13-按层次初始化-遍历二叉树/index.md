@@ -1,8 +1,10 @@
-+++
-title = "按层次初始化/遍历二叉树"
-slug = "init-and-traverse-tree-by-level"
-tags = ["Algorithm"]
-+++
+---
+title: "按层次初始化/遍历二叉树"
+slug: "init-and-traverse-tree-by-level"
+tags: ["Algorithm"]
+---
+
+
 
 按层次遍历二叉树的程序网上一大把,但是自己就没真的自己亲手去实现过.导致当出现新的需求时,没法立刻写出代码来.  
 需求:按层次遍历二叉树,根节点为0层.偶数层从左到右输出,奇数层从右到左输出.每输出一层,就输出一个换行.  
@@ -164,5 +166,6 @@ tags = ["Algorithm"]
         return &nodesArray[0];
     }
     ```
+
 
 

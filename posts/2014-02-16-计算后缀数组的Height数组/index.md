@@ -1,8 +1,10 @@
-+++
-title = "计算后缀数组的Height数组"
-slug = "calculate-height-array"
-tags = ["Algorithm"]
-+++
+---
+title: "计算后缀数组的Height数组"
+slug: "calculate-height-array"
+tags: ["Algorithm"]
+---
+
+
 
 定义height[i]为suffix(sa[i-1])和suffix(sa[i])的最长公共前缀.对于j和k,假设rank[j]<rank[k],则:
 
@@ -62,3 +64,4 @@ void CalHeight(int *source,int *SA,int *rank,int *height,int n)
 ## 参考:
 
 [后缀数组-处理字符串的有力工具](https://www.dropbox.com/s/lkh0ca0d55fl5g0/%E5%90%8E%E7%BC%80%E6%95%B0%E7%BB%84%E2%80%94%E2%80%94%E5%A4%84%E7%90%86%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%9C%89%E5%8A%9B%E5%B7%A5%E5%85%B7.pdf)
+

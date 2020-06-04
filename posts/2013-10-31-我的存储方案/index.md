@@ -1,8 +1,10 @@
-+++
-title = "我的存储方案"
-slug = "my-storage-scheme"
-tags = ["Life"]
-+++
+---
+title: "我的存储方案"
+slug: "my-storage-scheme"
+tags: ["Life"]
+---
+
+
 
 ## 本地存储
 首先,所有的文件肯定在本地存储器上存有一个副本.我采用移动硬盘加上机身硬盘相结合来构造本地存储.
@@ -19,3 +21,4 @@ tags = ["Life"]
 - Dropbox.选Dropbox是因为我用他托管了我的博客,而且IOS中很多应用都是有Dropbox接口(一般都没有国内网盘的接口),因此Dropbox也是必须的.
 
 本地存储外加云端,暂时可以高枕无忧了.
+

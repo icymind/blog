@@ -1,8 +1,10 @@
-+++
-title = "按下ESC时让VIM自动切换为英文输入法"
-slug = "esc-in-vim-auto-change-to-eng-im"
-tags = ["Tech"]
-+++
+---
+title: "按下ESC时让VIM自动切换为英文输入法"
+slug: "esc-in-vim-auto-change-to-eng-im"
+tags: ["Tech"]
+---
+
+
 
 - 思路是用 [ karabiner ][ karabiner ] 软件，如果当前运行的程序是VIM，那么将ESC映射为：首先执行ESC的功能，然后切换到英文输入法。缺点是当按下 i 进入插入模式时处于英文输入状态，需要打中文的话还需要自己手动切换一次。
 
@@ -62,3 +64,4 @@ tags = ["Tech"]
 
 [ karabiner ]: https://pqrs.org/osx/karabiner/
 [ documents ]: https://pqrs.org/osx/karabiner/xml.html.en#vkchangeinputsourcedef
+

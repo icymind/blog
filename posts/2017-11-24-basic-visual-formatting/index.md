@@ -1,7 +1,9 @@
-+++
-title = "Basic Visual Formatting"
-tags = ["css"]
-+++
+---
+title: "Basic Visual Formatting"
+tags: ["css"]
+---
+
+
 
 最近看了看CSS, 看到CSS权威指南第三版已经是十年前出版的了,相比CSS3的内容不会有多少, 于是去搜了一下, 第四版正在出, O社已经有了Early版的PDF卖了, 其实我不想买的, 贵得要死. 奈何搜了半天都找不到哪里有下载, 只好买了一本. 不过还好找了个优惠券, 折价50%. 以下是"基本视觉可视化"一章的读书笔记.
 
@@ -318,4 +320,5 @@ CSS规范这么说: 在块级元素上声明line-height会为该块级元素的�
 - Run-in Elements
 
 疑问: 什么在div上设置line-height为内部图片的高度, div的高度不等于line-height?
+
 

@@ -1,8 +1,10 @@
-+++
-title = "计数排序以及桶排序"
-slug = "counting-sort-and-bucket-sort"
-tags = ["Algorithm"]
-+++
+---
+title: "计数排序以及桶排序"
+slug: "counting-sort-and-bucket-sort"
+tags: ["Algorithm"]
+---
+
+
 
 ## 何为计数排序
 
@@ -234,3 +236,4 @@ void main(){
 - [参考4](http://www.cnblogs.com/CSharpSPF/p/3242214.html)  
 - [参考5](http://www.ahathinking.com/archives/126.html)  
 - [参考6](http://hxraid.iteye.com/blog/647759)
+

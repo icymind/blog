@@ -1,8 +1,10 @@
-+++
-title = "后缀数组DC3构造算法的理解"
-slug = "difference-cover-modulo-algorithm"
-tags = ["Algorithm"]
-+++
+---
+title: "后缀数组DC3构造算法的理解"
+slug: "difference-cover-modulo-algorithm"
+tags: ["Algorithm"]
+---
+
+
 
 DC3算法(Difference Cover Modulo 3 Algorithm)最早由Karkkainen在论文[Simple Linear Work Suffix Array Construction](https://www.dropbox.com/s/d0sle7cssfx1l43/simple%20linear%20work%20su%EF%AC%83x%20array%20construction_dc3.pdf)中发表.罗穗骞在[后缀数组-处理字符串的有力工具](https://www.dropbox.com/s/lkh0ca0d55fl5g0/%E5%90%8E%E7%BC%80%E6%95%B0%E7%BB%84%E2%80%94%E2%80%94%E5%A4%84%E7%90%86%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%9C%89%E5%8A%9B%E5%B7%A5%E5%85%B7.pdf)一文中做了中文解释,本文在罗穗骞文章的基础上进行理解.
 
@@ -151,3 +153,4 @@ int main()
 <!--link-->
 [dc3-pic]: /images/2014/dc3.jpg
 [dc3_1-pic]: /images/2014/dc3_1.jpg
+

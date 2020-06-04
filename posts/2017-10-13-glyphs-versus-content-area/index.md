@@ -1,7 +1,9 @@
-+++
-title = "glyphs VS content-area"
-tags = ["css"]
-+++
+---
+title: "glyphs VS content-area"
+tags: ["css"]
+---
+
+
 
 CSS权威指南"基本视觉格式化"一章中讲到:
 对于行内非替换元素或者匿名文本来说, font-size指定了它们的content area的高度, 由于inline box是由content area加上上下的half-leading构成的, 那么如果元素的leading为0, 在这种情况下, font-size指定了inline box的高度.
@@ -76,3 +78,4 @@ css2.1 规范里写道:
 参考:
 
 [iamvdo](http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
+

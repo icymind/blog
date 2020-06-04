@@ -1,8 +1,10 @@
-+++
-title = "字母组合问题"
-slug = "combine-letters"
-tags = ["Algorithm"]
-+++
+---
+title: "字母组合问题"
+slug: "combine-letters"
+tags: ["Algorithm"]
+---
+
+
 
 ## Problem
 
@@ -70,3 +72,4 @@ void CombineLetter(const char* index1,const char* index2)
     }
 }
 ```
+

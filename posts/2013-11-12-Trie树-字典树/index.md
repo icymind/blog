@@ -1,8 +1,10 @@
-+++
-title = "Trie树(字典树)"
-slug = "trie-tree"
-tags = ["Algorithm"]
-+++
+---
+title: "Trie树(字典树)"
+slug: "trie-tree"
+tags: ["Algorithm"]
+---
+
+
 
 ## 引出问题
 
@@ -206,3 +208,4 @@ hash表删除某个节点非常容易,将其地址对应的值置空即可.
 
 <!--links-->
 [trie-tree-pic]: /images/2013/trie-tree.jpg
+

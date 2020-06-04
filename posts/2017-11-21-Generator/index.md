@@ -1,7 +1,9 @@
-+++
-title = "Generator"
-tags = ["es6"]
-+++
+---
+title: "Generator"
+tags: ["es6"]
+---
+
+
 
 es6 的 Generator 可以通过 yield 交出控制权，通过 next(arg) 函数恢复控制权同时接收外部传入的数据。这个特性可以使得 Generator 替代回调函数成为可能。
 
@@ -135,4 +137,5 @@ Generator 的三个层次：
 3. 看山还是山
 
     co 模块的本质还是 yield 和 next
+
 
