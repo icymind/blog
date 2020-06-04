@@ -1,6 +1,8 @@
 ---
-title: "glyphs VS content-area"
+slug: glyphs-versus-content-area
+date: 20171013
 tags: ["css"]
+title: "glyphs VS content-area"
 ---
 
 

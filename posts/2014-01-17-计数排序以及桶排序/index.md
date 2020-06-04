@@ -1,7 +1,8 @@
 ---
-title: "计数排序以及桶排序"
-slug: "counting-sort-and-bucket-sort"
+date: 20140117
 tags: ["Algorithm"]
+slug: "counting-sort-and-bucket-sort"
+title: "计数排序以及桶排序"
 ---
 
 

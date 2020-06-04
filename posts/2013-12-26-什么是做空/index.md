@@ -1,7 +1,8 @@
 ---
-title: "什么是做空"
-slug: "what-is-short-selling"
+date: 20131226
 tags: ["Life"]
+slug: "what-is-short-selling"
+title: "什么是做空"
 ---
 
 

@@ -1,7 +1,8 @@
 ---
-title: "虚拟 openwrt"
-slug: "virtual-openwrt"
+date: 20161108
 tags: ["Tech"]
+slug: "virtual-openwrt"
+title: "虚拟 openwrt"
 ---
 
 

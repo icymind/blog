@@ -1,7 +1,8 @@
 ---
-title: "我的存储方案"
-slug: "my-storage-scheme"
+date: 20131031
 tags: ["Life"]
+slug: "my-storage-scheme"
+title: "我的存储方案"
 ---
 
 

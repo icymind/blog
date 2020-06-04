@@ -1,6 +1,8 @@
 ---
-title: "Generator"
+slug: Generator
+date: 20171121
 tags: ["es6"]
+title: "Generator"
 ---
 
 

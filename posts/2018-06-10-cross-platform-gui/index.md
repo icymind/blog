@@ -1,6 +1,8 @@
 ---
-title: "跨平台桌面应用的技术选择"
+slug: cross-platform-gui
+date: 20180610
 tags: ["gui"]
+title: "跨平台桌面应用的技术选择"
 ---
 
 

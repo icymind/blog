@@ -1,6 +1,8 @@
 ---
-title: "Basic Visual Formatting"
+slug: basic-visual-formatting
+date: 20171124
 tags: ["css"]
+title: "Basic Visual Formatting"
 ---
 
 

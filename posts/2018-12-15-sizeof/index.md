@@ -1,6 +1,8 @@
 ---
-title: "sizeof"
+slug: sizeof
+date: 20181215
 tags: ["javascript encoding unicode"]
+title: "sizeof"
 ---
 
 
@@ -31,7 +33,7 @@ tags: ["javascript encoding unicode"]
 
 Unicode 把每 2^16 个字符分一个集合, 称为一个平面(plane), 目前一个有 17 个平面. 所以 Unicode 一共可以表示 1114112 个字符, 每个字符都有自己的序号, 从0-1114112, 称之为码点(codepoint), 目前只用了不到 14 万的字符([link](https://en.wikipedia.org/wiki/Plane_(Unicode))). 第一个平面称为基本平面(BMP: Basic Multilingual Plane), 常见的字符都在这个平面, 其他平面也有自己的名称, 如图:
 
-{% asset_img unicode_planes.png %}
+![planes](./unicode_planes.png)
 
 ## 字符编码
 

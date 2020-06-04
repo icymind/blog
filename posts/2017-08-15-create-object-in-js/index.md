@@ -1,6 +1,8 @@
 ---
-title: "各种青年是怎么创建对象的"
+slug: create-object-in-js
+date: 20170815
 tags: ["js"]
+title: "各种青年是怎么创建对象的"
 ---
 
 

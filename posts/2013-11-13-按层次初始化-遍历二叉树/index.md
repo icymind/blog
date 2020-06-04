@@ -1,7 +1,8 @@
 ---
-title: "按层次初始化/遍历二叉树"
-slug: "init-and-traverse-tree-by-level"
+date: 20131113
 tags: ["Algorithm"]
+slug: "init-and-traverse-tree-by-level"
+title: "按层次初始化/遍历二叉树"
 ---
 
 

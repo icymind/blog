@@ -1,7 +1,8 @@
 ---
-title: "有人的地方就有江湖"
-slug: "life-is-battle"
+date: 20140905
 tags: ["Work"]
+slug: "life-is-battle"
+title: "有人的地方就有江湖"
 ---
 
 

@@ -1,7 +1,8 @@
 ---
-title: "字符排列组合"
-slug: "permutation-and-combination-problem"
+date: 20131114
 tags: ["Algorithm"]
+slug: "permutation-and-combination-problem"
+title: "字符排列组合"
 ---
 
 

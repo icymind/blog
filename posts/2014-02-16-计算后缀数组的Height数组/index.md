@@ -1,7 +1,8 @@
 ---
-title: "计算后缀数组的Height数组"
-slug: "calculate-height-array"
+date: 20140216
 tags: ["Algorithm"]
+slug: "calculate-height-array"
+title: "计算后缀数组的Height数组"
 ---
 
 

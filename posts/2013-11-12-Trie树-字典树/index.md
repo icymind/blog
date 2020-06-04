@@ -1,7 +1,8 @@
 ---
-title: "Trie树(字典树)"
-slug: "trie-tree"
+date: 20131112
 tags: ["Algorithm"]
+slug: "trie-tree"
+title: "Trie树(字典树)"
 ---
 
 
