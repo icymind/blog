@@ -1,5 +1,5 @@
 ---
-date: 20140213
+date: 2014-02-13
 tags: ["Algorithm"]
 slug: "difference-cover-modulo-algorithm"
 title: "后缀数组DC3构造算法的理解"

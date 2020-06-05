@@ -1,5 +1,5 @@
 ---
-date: 20140111
+date: 2014-01-11
 tags: ["Algorithm"]
 slug: "radix-sorting"
 title: "基数排序"

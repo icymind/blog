@@ -1,5 +1,5 @@
 ---
-date: 20131113
+date: 2013-11-13
 tags: ["Algorithm"]
 slug: "init-and-traverse-tree-by-level"
 title: "按层次初始化/遍历二叉树"

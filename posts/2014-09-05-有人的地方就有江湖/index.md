@@ -1,5 +1,5 @@
 ---
-date: 20140905
+date: 2014-09-05
 tags: ["Work"]
 slug: "life-is-battle"
 title: "有人的地方就有江湖"

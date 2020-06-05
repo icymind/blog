@@ -1,6 +1,6 @@
 ---
 slug: Generator
-date: 20171121
+date: 2017-11-21
 tags: ["es6"]
 title: "Generator"
 ---

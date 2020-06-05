@@ -1,5 +1,5 @@
 ---
-date: 20161108
+date: 2016-11-08
 tags: ["Tech"]
 slug: "virtual-openwrt"
 title: "虚拟 openwrt"

@@ -1,5 +1,5 @@
 ---
-date: 20140216
+date: 2014-02-16
 tags: ["Algorithm"]
 slug: "calculate-height-array"
 title: "计算后缀数组的Height数组"

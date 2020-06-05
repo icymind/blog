@@ -1,5 +1,5 @@
 ---
-date: 20160303
+date: 2016-03-03
 tags: ["Tech"]
 slug: "learn-from-gfw"
 title: "那些从墙上学会的知识"

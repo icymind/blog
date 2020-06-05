@@ -1,5 +1,5 @@
 ---
-date: 20140117
+date: 2014-01-17
 tags: ["Algorithm"]
 slug: "counting-sort-and-bucket-sort"
 title: "计数排序以及桶排序"

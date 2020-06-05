@@ -1,5 +1,5 @@
 ---
-date: 20131031
+date: 2013-10-31
 tags: ["Life"]
 slug: "my-storage-scheme"
 title: "我的存储方案"

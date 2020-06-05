@@ -1,5 +1,5 @@
 ---
-date: 20160129
+date: 2016-01-29
 tags: ["Tech"]
 slug: "esc-in-vim-auto-change-to-eng-im"
 title: "按下ESC时让VIM自动切换为英文输入法"

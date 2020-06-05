@@ -1,5 +1,5 @@
 ---
-date: 20131226
+date: 2013-12-26
 tags: ["Life"]
 slug: "what-is-short-selling"
 title: "什么是做空"

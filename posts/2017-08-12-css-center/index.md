@@ -1,6 +1,6 @@
 ---
 slug: css-center
-date: 20170812
+date: 2017-08-12
 tags: []
 title: "<del>茴字</del>元素居中有多少种写法"
 ---

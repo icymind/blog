@@ -1,5 +1,5 @@
 ---
-date: 20131114
+date: 2013-11-14
 tags: ["Algorithm"]
 slug: "permutation-and-combination-problem"
 title: "字符排列组合"

@@ -1,5 +1,5 @@
 ---
-date: 20131112
+date: 2013-11-12
 tags: ["Algorithm"]
 slug: "trie-tree"
 title: "Trie树(字典树)"

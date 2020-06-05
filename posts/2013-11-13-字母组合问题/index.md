@@ -1,5 +1,5 @@
 ---
-date: 20131113
+date: 2013-11-13
 tags: ["Algorithm"]
 slug: "combine-letters"
 title: "字母组合问题"
