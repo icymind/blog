@@ -15,10 +15,14 @@
     "gatsby-source-filesystem": "^2.3.4",
     "gatsby-transformer-remark": "^2.8.13",
     "gatsby-transformer-sharp": "^2.5.2",
+    "install": "^0.13.0",
+    "normalize.css": "^8.0.1",
+    "npm": "^6.14.5",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-helmet": "^6.0.0"
+    "react-helmet": "^6.0.0",
+    "styled-components": "^5.1.1"
   },
   "devDependencies": {
     "@huyafed/eslint-config-huya-react": "^1.1.9",

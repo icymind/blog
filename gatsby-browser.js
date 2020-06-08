@@ -5,3 +5,7 @@
  */
 
 // You can delete this file if you're not using it
+
+import './node_modules/normalize.css/normalize.css'
+import './src/styles/variables.css'
+import './src/styles/app.css'
